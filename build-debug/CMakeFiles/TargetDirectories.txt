@@ -1,0 +1,3 @@
+/usr/dev/vdb1/jtao/workstation/ssr_acq/build-debug/CMakeFiles/ssr_acq.dir
+/usr/dev/vdb1/jtao/workstation/ssr_acq/build-debug/CMakeFiles/edit_cache.dir
+/usr/dev/vdb1/jtao/workstation/ssr_acq/build-debug/CMakeFiles/rebuild_cache.dir
